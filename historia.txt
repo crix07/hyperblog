@@ -5,3 +5,7 @@ El comando rebase es una mala práctica, nunca se debe usar,
 pero para efectos de curso te lo vamos a enseñar para que
 hagas tus propios experimentos. Con rebase puedes recoger todos
 los cambios confirmados en una rama y ponerlos sobre otra.
+
+Master 1 
+
+Master 2
